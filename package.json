@@ -1,0 +1,19 @@
+{
+  "name": "file-transfer",
+  "version": "1.0.0",
+  "description": "file transfering web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.3"
+  }
+}
